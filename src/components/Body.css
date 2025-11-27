@@ -1,0 +1,46 @@
+.Form{
+margin-left:700px ;
+margin-bottom: 30px;
+margin-top:30px;
+}
+
+.container {
+    margin-right: 30px;
+    padding-right: 150px;
+    padding-left: 0px;
+    /* align-items: center;
+    justify-content: center; */
+}
+.main-container{
+    width: 700px;
+    margin-left:20px;
+   
+}
+.verymain-container{
+    display: flex;
+}
+.description{
+    margin-left:30px;
+    width: 700px;
+    /* align-items: right; */
+    
+}
+.title{
+    /* padding-left:700px; */
+    /* width: 700px; */
+    height: 50px;
+    margin-bottom:10px ;
+    
+    /* background-color:  rgb(193, 200, 200); */
+}
+.previous{
+    background-color: rgb(100,159,208);
+    padding-left: 500px;
+}
+#carouselExampleAutoplaying
+{
+    padding-left:0px;
+}
+.carousel-inner{
+    padding-left: -10px;
+}
